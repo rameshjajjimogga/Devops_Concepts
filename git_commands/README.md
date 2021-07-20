@@ -17,5 +17,6 @@
 - **what is pull request?**
 - It brings changes from base branch to target branch
 
+- `git push`: It pushes changes from current branch to origin 
 
 
